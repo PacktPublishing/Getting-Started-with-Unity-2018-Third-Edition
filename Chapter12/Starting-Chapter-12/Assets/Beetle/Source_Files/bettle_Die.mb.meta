@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: cfa4aa15155b55c47a175a8149287312
+timeCreated: 1507052759
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back
+    100002: Back_01
+    100004: Back_control
+    100006: Beetle
+    100008: //RootNode
+    100010: Chest
+    100012: Chest_control
+    100014: feeler_l
+    100016: feeler_r
+    100018: Head
+    100020: Head_control
+    100022: ikHandle1
+    100024: ikHandle2
+    100026: ikHandle3
+    100028: ikHandle4
+    100030: ikHandle5
+    100032: ikHandle6
+    100034: ikHandle7
+    100036: ikHandle8
+    100038: joint16
+    100040: joint17
+    100042: joint18
+    100044: joint19
+    100046: joint2
+    100048: joint20
+    100050: joint21
+    100052: joint23
+    100054: joint24
+    100056: joint25
+    100058: joint26
+    100060: joint27
+    100062: joint28
+    100064: joint3
+    100066: joint30
+    100068: joint31
+    100070: joint32
+    100072: joint33
+    100074: joint34
+    100076: joint35
+    100078: joint36
+    100080: joint4
+    100082: joint40
+    100084: joint41
+    100086: joint42
+    100088: joint43
+    100090: joint44
+    100092: joint45
+    100094: joint47
+    100096: joint48
+    100098: joint49
+    100100: joint5
+    100102: joint50
+    100104: joint51
+    100106: joint52
+    100108: joint54
+    100110: joint55
+    100112: joint56
+    100114: joint57
+    100116: joint58
+    100118: joint59
+    100120: joint6
+    100122: joint60
+    100124: joint62
+    100126: joint63
+    100128: joint64
+    100130: joint65
+    100132: joint66
+    100134: joint67
+    100136: joint7
+    100138: Left_feeler_Control
+    100140: Leg01_l
+    100142: Leg01_l_cont
+    100144: leg01_r
+    100146: Leg01_r_cont
+    100148: leg02_l
+    100150: Leg02_l_cont
+    100152: leg02_r
+    100154: Leg02_r_cont
+    100156: Leg03_l
+    100158: Leg03_l_cont
+    100160: leg03_r
+    100162: Leg03_r_cont
+    100164: locator1
+    100166: locator1 1
+    100168: locator1 2
+    100170: locator1 3
+    100172: locator1 4
+    100174: locator2
+    100176: locator3
+    100178: locator4
+    100180: Main
+    100182: Neck
+    100184: pCube1
+    100186: Pelvis
+    100188: Right_feeler_Control
+    100190: Wing_l
+    100192: wing_l
+    100194: Wing_r
+    100196: wing_r
+    400000: Back
+    400002: Back_01
+    400004: Back_control
+    400006: Beetle
+    400008: //RootNode
+    400010: Chest
+    400012: Chest_control
+    400014: feeler_l
+    400016: feeler_r
+    400018: Head
+    400020: Head_control
+    400022: ikHandle1
+    400024: ikHandle2
+    400026: ikHandle3
+    400028: ikHandle4
+    400030: ikHandle5
+    400032: ikHandle6
+    400034: ikHandle7
+    400036: ikHandle8
+    400038: joint16
+    400040: joint17
+    400042: joint18
+    400044: joint19
+    400046: joint2
+    400048: joint20
+    400050: joint21
+    400052: joint23
+    400054: joint24
+    400056: joint25
+    400058: joint26
+    400060: joint27
+    400062: joint28
+    400064: joint3
+    400066: joint30
+    400068: joint31
+    400070: joint32
+    400072: joint33
+    400074: joint34
+    400076: joint35
+    400078: joint36
+    400080: joint4
+    400082: joint40
+    400084: joint41
+    400086: joint42
+    400088: joint43
+    400090: joint44
+    400092: joint45
+    400094: joint47
+    400096: joint48
+    400098: joint49
+    400100: joint5
+    400102: joint50
+    400104: joint51
+    400106: joint52
+    400108: joint54
+    400110: joint55
+    400112: joint56
+    400114: joint57
+    400116: joint58
+    400118: joint59
+    400120: joint6
+    400122: joint60
+    400124: joint62
+    400126: joint63
+    400128: joint64
+    400130: joint65
+    400132: joint66
+    400134: joint67
+    400136: joint7
+    400138: Left_feeler_Control
+    400140: Leg01_l
+    400142: Leg01_l_cont
+    400144: leg01_r
+    400146: Leg01_r_cont
+    400148: leg02_l
+    400150: Leg02_l_cont
+    400152: leg02_r
+    400154: Leg02_r_cont
+    400156: Leg03_l
+    400158: Leg03_l_cont
+    400160: leg03_r
+    400162: Leg03_r_cont
+    400164: locator1
+    400166: locator1 1
+    400168: locator1 2
+    400170: locator1 3
+    400172: locator1 4
+    400174: locator2
+    400176: locator3
+    400178: locator4
+    400180: Main
+    400182: Neck
+    400184: pCube1
+    400186: Pelvis
+    400188: Right_feeler_Control
+    400190: Wing_l
+    400192: wing_l
+    400194: Wing_r
+    400196: wing_r
+    2300000: pCube1
+    3300000: pCube1
+    4300000: Beetle
+    4300002: pCube1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Beetle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
